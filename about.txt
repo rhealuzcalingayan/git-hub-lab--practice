@@ -1,0 +1,3 @@
+My name is Rhea Luz Calingayan.
+I am a student interested in Information Technology.
+I am learning Git and GitHub for version control and collaboration.
